@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/keep-app/static/js/main.dfbe4b43.js",
+    "index.html": "/keep-app/index.html",
+    "main.dfbe4b43.js.map": "/keep-app/static/js/main.dfbe4b43.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfbe4b43.js"
+  ]
+}
